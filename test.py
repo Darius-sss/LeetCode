@@ -1,11 +1,18 @@
-matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-# matrix = matrix[::-1]
-# print(matrix)
-# n = len(matrix)
-# for i in range(n):
-#     for j in range(i + 1, n):
-#         matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
-# print(matrix)
+strs = ["flower", "flow", "flight"]
 
-matrix = list(zip(*reversed(matrix)))
-print(matrix)
+m = len(strs)
+n = min(len(_) for _ in strs)
+print(m, n)
+ind, temp = 0, []
+for i in range(0, 2):
+    temp.clear()
+    for j in range(m):
+        temp.append(strs[j][i])
+    if len(set(temp)) != 1:
+        break
+    else:
+        ind = i
+print(strs[0][:ind+1])
+
+
+
