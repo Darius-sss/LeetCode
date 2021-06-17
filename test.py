@@ -1,2 +1,3 @@
-for i in range(5, 0, -1):
-    print(i)
+from functools import reduce
+
+print(reduce(lambda x,y:x-y, [1,2,3]))
