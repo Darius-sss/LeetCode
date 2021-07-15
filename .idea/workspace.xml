@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="" />
+    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/python文件.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +65,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
