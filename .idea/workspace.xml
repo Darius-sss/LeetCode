@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/python文件.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,6 +133,17 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
