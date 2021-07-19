@@ -3,11 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/二分查找--53剑指--在排序数组中查找数字 I.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/二分查找--53剑指--在排序数组中查找数字 I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/其他--168--十进制转26进制.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--168--十进制转26进制.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/树--108--有序数组转换为平衡二叉搜索树.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/树--108--有序数组转换为平衡二叉搜索树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/树--112--路径总和.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/树--112--路径总和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--03--集合--数组中重复的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--03--集合--数组中重复的数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--04--其他--二维数组中的查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--04--其他--二维数组中的查找.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--05--替换空格.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--05--替换空格.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--06--链表--从尾到头打印链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--06--链表--从尾到头打印链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--10- II--动态规划--青蛙跳台阶问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--10- II--动态规划--青蛙跳台阶问题.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--11--二分法--旋转数组的最小数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--11--二分法--旋转数组的最小数字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--12--深度搜索DFS--矩阵中的路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--12--深度搜索DFS--矩阵中的路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/剑指Offer--13--深度搜索DFS--机器人的运动范围.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/剑指Offer--13--深度搜索DFS--机器人的运动范围.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/哈希表--10.2--面试题变位词组.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/哈希表--10.2--面试题变位词组.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/滑动窗口--1838--最高频元素的频数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/滑动窗口--1838--最高频元素的频数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/链表--19--删除链表的倒数第 N 个结点.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--19--删除链表的倒数第 N 个结点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/链表--876--链表的中间结点.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--876--链表的中间结点.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +79,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.其他--168--十进制转26进制">
-    <configuration name="树--108--有序数组转换为平衡二叉搜索树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.剑指Offer--06--链表--从尾到头打印链表">
+    <configuration name="滑动窗口--1838--最高频元素的频数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/树--108--有序数组转换为平衡二叉搜索树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/滑动窗口--1838--最高频元素的频数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="树--112--路径总和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="链表--19--删除链表的倒数第 N 个结点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/树--112--路径总和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/链表--19--删除链表的倒数第 N 个结点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="其他--168--十进制转26进制" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="链表--876--链表的中间结点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/其他--168--十进制转26进制.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/链表--876--链表的中间结点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="二分查找--53剑指--在排序数组中查找数字 I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="剑指Offer--06--链表--从尾到头打印链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/二分查找--53剑指--在排序数组中查找数字 I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/剑指Offer--06--链表--从尾到头打印链表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="剑指Offer--07--递归--重建二叉树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/tmp.py" />
+      <option name="SCRIPT_NAME" value="D:\Doc\code\LeetCode\python文件\剑指Offer--07--递归--重建二叉树.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.其他--168--十进制转26进制" />
-        <item itemvalue="Python.树--112--路径总和" />
-        <item itemvalue="Python.树--108--有序数组转换为平衡二叉搜索树" />
-        <item itemvalue="Python.tmp" />
-        <item itemvalue="Python.二分查找--53剑指--在排序数组中查找数字 I" />
+        <item itemvalue="Python.剑指Offer--06--链表--从尾到头打印链表" />
+        <item itemvalue="Python.剑指Offer--07--递归--重建二叉树" />
+        <item itemvalue="Python.链表--19--删除链表的倒数第 N 个结点" />
+        <item itemvalue="Python.链表--876--链表的中间结点" />
+        <item itemvalue="Python.滑动窗口--1838--最高频元素的频数" />
       </list>
     </recent_temporary>
   </component>
