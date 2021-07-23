@@ -85,6 +85,7 @@ class Solution_714:
 
 
 class StockSpanner_901:
+    # 股票价格跨度
 
     def __init__(self):
         self.stack = [(float('inf'), 0)]
