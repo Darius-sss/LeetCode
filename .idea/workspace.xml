@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--14- I--数学问题--剪绳子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--15--逻辑运算--二进制中1的个数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--20--有限状态自动机--表示数值的字符串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--21--双指针--调整数组顺序使奇数位于偶数前面.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--25--链表--合并两个排序的链表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--26.--树--树的子结构.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--27--树--二叉树的镜像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--28--树--判断对称的二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/差分数组--1893--检查是否区域内所有整数都被覆盖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/滑动窗口--3--无重复字符的最长子串.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/窗口滑动--567--字符串的排列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/贪心算法--1877--数组中最大数对和的最小值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0001--两数之和.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0005--最长回文子串.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0007--整数反转.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0012--整数转罗马数字.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0013--罗马数字转整数.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0014--最长公共前缀.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0026--删除排序数组中的重复项.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0027--移除元素.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0029--两数相除.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0030--串联所有单词的子串.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0031--下一个排列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0033--搜索旋转排序数组.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0035--搜索插入位置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0048--旋转矩阵.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0056--合并区间.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0118--杨辉三角.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0119--杨辉三角 II.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0137--只出现一次的数字 II.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0151--翻转字符串里的单词.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0153--寻找旋转排序数组中的最小值.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0167--两数之和 II - 输入有序数组.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0209--长度最小的子数组.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0283--移动零.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322--零钱兑换 (1).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322--零钱兑换 (2).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322--零钱兑换 (3).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322--零钱兑换 (4).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322--零钱兑换 (5).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0344--反转字符串.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0403--青蛙过河.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0485--最大连续1的个数.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0498--对角线遍历.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0554--砖墙.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0557--反转字符串中的单词 III.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0561--数组拆分 I.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0633--平方数之和.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0690--员工的重要性.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0692--前K个高频单词.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0724--寻找数组的中心索引.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0740--删除并获得点数.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0810--黑板异或游戏--困难--数学解法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1035--不相交的线.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1310--子数组异或查询.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1482--制作m束花所需要的最少天数.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1486--数组异或操作.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1720--解码异或后的数组.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1723--完成所有工作的最短时间--回溯算法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1734--解码异或后的排列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1738--找出第 K 大的异或坐标值.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/股票系列问题--121-122-123-188-309-714--901.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/股票系列问题--121-122-123-188-309-714--901.py" afterDir="false" />
-    </list>
+    <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
