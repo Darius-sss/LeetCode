@@ -41,7 +41,7 @@ class Solution_two:
         dp = triangle[-1]
         for i in range(len(triangle)-2, -1, -1):
             for j in range(len(triangle[i])):
-                dp[j] = min(dp[j], dp[j+1]) + triangle[i][j]
+                dp[j] = min(dp[j], dp[j+1]) + triangle[i][j]   # 含义--triangle[i][j]这个位置如果想要到下一层，则必须加上min(dp[j], dp[j+1])
         print(dp[0])
         return dp[0]
 

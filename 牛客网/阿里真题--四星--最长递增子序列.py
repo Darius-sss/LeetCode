@@ -17,9 +17,9 @@ for _ in range(T):
     Y = map(int, input().split())
     a = sorted(zip(X, Y), key=lambda x: (x[0], -x[1]))   # 关键在于x相等时按照y降序
     total = 0
-    q = [0] * 5
+    q = [0] * 1000005
     for i in range(n):
-        t = bisect_left(a=q, x=a[i][1], lo=0, hi=total)  #bisect_left(a, x, lo, hi)--a列表，x目标，lo下限，hi上限
+        t = bisect_left(a=q, x=a[i][1], lo=0, hi=total)  # bisect_left(a, x, lo, hi)--a列表，x目标，lo下限，hi上限
         if t == total:
             total += 1
         q[t] = a[i][1]

@@ -9,15 +9,14 @@ __author__ = 'ZhiYong Sun'
 注意：给定 n 是一个正整数。
 """
 
+
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n <= 0: return 0
-        if n <= 2: return n
-        first, second = 1, 2
-        for _ in range(3, n+1):
-            first, second = second, first + second
-        print(second)
-        return second
+        l, r = 1, 1
+        for _ in range(n):
+            l, r = r, l + r
+        return l
+
 
 if __name__ == "__main__":
     for num in range(20):

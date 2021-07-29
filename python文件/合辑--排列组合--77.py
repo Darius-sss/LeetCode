@@ -10,7 +10,7 @@ __doc__ = 'itertools.permutations' \
 216--组合总和III--从[1-9]中找出所有相加之和为 n 的 k 个数的组合，输出所有选择！
 377--组合总和Ⅳ---从给定的列表（列表数字不重复）中选择数字（可重复选择）使其总和为target，并且顺序不同则视为不同选择，输出选择的总数！
 
-46--全排列
+46--全排列-------给定一个不含重复数字的数组 nums ，返回其 所有可能的全排列 。
 47--全排列II
 
 78--子集
@@ -51,6 +51,9 @@ class Solution_39:
         return res
 
 
+
+
+
 """
 40--
 给定一个数组candidates和一个目标数target，找出candidates中所有可以使数字和为target的组合。
@@ -60,6 +63,7 @@ candidates中的每个数字在每个组合中只能使用一次。
 注意：解集不能包含重复的组合。
 
 """
+
 
 class Solution_40:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
@@ -81,6 +85,9 @@ class Solution_40:
                     backtrack(tmp + [candidates[i]], _sum + candidates[i], i + 1)   # 这里由i边成i+1,避免自身重复选择
         backtrack([], 0, 0)
         return res
+
+
+
 
 
 """
@@ -161,6 +168,16 @@ class Solution:
         return len(res)
 
 
+
+
+"""
+377--
+给你一个由 不同 整数组成的数组 nums ，和一个目标整数 target 。请你从 nums 中找出并返回总和为 target 的元素组合的个数。
+
+题目数据保证答案符合 32 位整数范围。
+"""
+
+
 class Solution_377:
     def combinationSum4(self, nums: List[int], target: int) -> int:
         # 考虑到这道题目返回的结果只是个数，考虑动态规划
@@ -172,11 +189,18 @@ class Solution_377:
         return dp[target]
 
 
+"""
+46--给定一个不含重复数字的数组 nums ，返回其 所有可能的全排列 。你可以 按任意顺序 返回答案。
+"""
 
 
-class Solution_46:
+class Solution_46_case1:    # ***
     def permute(self, nums: List[int]) -> List[List[int]]:
-        # return list(map(list, itertools.permutations(nums)))  # 一行可解决
+        return list(map(list, permutations(nums)))  # 一行可解决
+
+
+class Solution_46_case2:    # **
+    def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
 
         def dfs(nums, tmp):
@@ -188,6 +212,22 @@ class Solution_46:
                 dfs(nums[:i] + nums[i+1:], tmp + [nums[i]])
 
         dfs(nums, [])
+        return res
+
+
+class Solution_46_case3:  # *
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        res = []
+
+        def backtrack(tmp):
+            if len(tmp) == len(nums):
+                res.append(tmp)
+                return
+            for num in nums:
+                if num not in set(tmp):
+                    backtrack(tmp + [num])
+        backtrack([])
+
         return res
 
 
@@ -215,7 +255,8 @@ if __name__ == "__main__":
     target = 4
     print(Solution_377().combinationSum4(nums, target))
 
-
-    #
-    # nums = [1, 2, 3]
-    # print(Solution_46().permute(nums))
+    # 46测试用例
+    nums = [1, 2, 3]
+    print(Solution_46_case1().permute(nums))
+    print(Solution_46_case2().permute(nums))
+    print(Solution_46_case3().permute(nums))

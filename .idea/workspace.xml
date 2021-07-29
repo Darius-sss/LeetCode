@@ -2,23 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/二分查找--15--三数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/二分查找--1713--得到子序列的最少操作次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/二分查找--18--四数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/二分查找--两数之和II--输入有序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/位运算--136--只出现一次的数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/位运算--190--颠倒二进制位.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/位运算--191--位1的个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/位运算--231--2 的幂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--1143--最长公共子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--1713--得到子序列的最少操作次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--322--零钱兑换-完全背包问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--416--分割等和子集-01背包问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--509--斐波那契数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--518--零钱兑换II-完全背包问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/动态规划--53--最大子序和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/堆栈--496--下一个更大元素 I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/堆栈-20--有效的括号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/树--1104--二叉树寻路.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/树--671--二叉树中第二小的节点.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python文件/tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/tmpq.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/tmpq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/其他--1736--替换隐藏数字得到的最晚时间.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--1736--替换隐藏数字得到的最晚时间.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/广度搜索BFS--116--填充每个节点的下一个右侧节点指针.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/广度搜索BFS--116--填充每个节点的下一个右侧节点指针.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/广度搜索BFS--994--腐烂的橘子.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/广度搜索BFS--994--腐烂的橘子.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/快速排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/括号系列问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/合辑--括号系列问题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/树--617--合并二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/树--617--合并二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/深度搜索DFS--695--岛屿最大面积.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/深度搜索DFS--695--岛屿最大面积.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/深度搜索DFS--733--图像渲染.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/深度搜索DFS--733--图像渲染.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/股票系列问题--121-122-123-188-309-714--901.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/合辑--股票系列问题--121-122-123-188-309-714--901.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/链表--138--复制带随机指针的链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--138--复制带随机指针的链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/链表--21--合并两个有序链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--21--合并两个有序链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/ACM模式输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/ACM模式输入.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/阿里真题--四星--小强取货.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/阿里真题--四星--小强取货.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--120--三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--120--三角形最小路径和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--152--乘积最大子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--152--乘积最大子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--70--爬楼梯.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--70--爬楼梯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/阿里真题--四星--小强取货.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/阿里真题--四星--最长递增子序列.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +90,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../智能算法代码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.合辑--排列组合--77">
-    <configuration name="合辑--排列组合--77" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.堆栈--456--132模式">
+    <configuration name="动态规划--1713--得到子序列的最少操作次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/动态规划--1713--得到子序列的最少操作次数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="其他--1736--替换隐藏数字得到的最晚时间" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="堆栈--456--132模式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/其他--1736--替换隐藏数字得到的最晚时间.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈--456--132模式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="链表--21--合并两个有序链表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="堆栈--496--下一个更大元素 I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/链表--21--合并两个有序链表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈--496--下一个更大元素 I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="广度搜索BFS--994--腐烂的橘子" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="动态规划--518--零钱兑换II-完全背包问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +169,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/广度搜索BFS--994--腐烂的橘子.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/动态规划--518--零钱兑换II-完全背包问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="堆栈-20--有效的括号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python文件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈-20--有效的括号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.合辑--排列组合--77" />
+        <item itemvalue="Python.堆栈--456--132模式" />
         <item itemvalue="Python.tmp" />
-        <item itemvalue="Python.广度搜索BFS--994--腐烂的橘子" />
-        <item itemvalue="Python.链表--21--合并两个有序链表" />
-        <item itemvalue="Python.其他--1736--替换隐藏数字得到的最晚时间" />
+        <item itemvalue="Python.堆栈--496--下一个更大元素 I" />
+        <item itemvalue="Python.堆栈-20--有效的括号" />
+        <item itemvalue="Python.动态规划--518--零钱兑换II-完全背包问题" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +290,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python文件/合辑--排列组合--77.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
