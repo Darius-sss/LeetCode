@@ -31,6 +31,7 @@ class Solution:
         visited = {}  # 禁忌表
 
         def dfs(node):
+            nonlocal visited
             if not node: return None
             if node in visited: return visited[node]
             root = Node(node.val)

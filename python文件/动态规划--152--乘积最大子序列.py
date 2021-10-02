@@ -25,7 +25,9 @@ class Solution:
 
 
 if __name__ == "__main__":
-    nums = [2,3,-2,4]
-    nums = [-2, 0, -1]
-    nums = [-4,-3,-2]
-    Solution().maxProduct(nums)
+    nums = []
+    nums.append([2, 3, -2, 4])
+    nums.append([-2, 0, -1])
+    nums.append([-4, -3, -2])
+    for num in nums:
+        Solution().maxProduct(num)

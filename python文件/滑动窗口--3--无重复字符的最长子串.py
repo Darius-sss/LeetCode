@@ -20,6 +20,21 @@ class Solution:
         return count
 
 
+def _011(s):
+    hashmap = {}
+    left = 0
+    mx = 0
+
+    for ind, ch in enumerate(s):
+        if ch in hashmap:
+            left = max(left, hashmap[ch] + 1)
+        mx = max(mx, ind - left + 1)
+        hashmap[ch] = ind
+    return mx
+
+
 if __name__ == "__main__":
     s = "abcabcbb"
     print(Solution().lengthOfLongestSubstring(s))
+
+    print(_011(s))

@@ -46,8 +46,28 @@ class Solution:
         print(slow.val)
         return slow
 
+def _004(head):
+    if not head or not head.next:
+        return None
+    slow, fast = head, head.next
+    while slow != fast:
+        if not (fast and fast.next):
+            return None
+        slow = slow.next
+        fast = fast.next.next
+
+    slow = slow.next  # 相遇之后slow再往前一步
+    new = head   # 新指针从头开始
+
+    while slow != new:
+        slow, new = slow.next, new.next
+
+    return slow.val
+
 
 if __name__ == "__main__":
     nums = [1, 2, 0, 4, 6, 7]
-    root = ListNode().createCycle(nums, 3)
-    result = Solution().detectCycle(root)
+    root = ListNode().createCycle(nums, 5)
+    Solution().detectCycle(root)
+
+    print(_004(root))

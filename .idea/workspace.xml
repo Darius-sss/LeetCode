@@ -2,32 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be1739e7-1409-4626-9d40-82e4264225fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python文件/二分查找--15--三数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/二分查找--1713--得到子序列的最少操作次数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/二分查找--18--四数之和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/二分查找--两数之和II--输入有序数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/位运算--136--只出现一次的数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/位运算--190--颠倒二进制位.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/位运算--191--位1的个数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/位运算--231--2 的幂.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--1143--最长公共子序列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--1713--得到子序列的最少操作次数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--322--零钱兑换-完全背包问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--416--分割等和子集-01背包问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--509--斐波那契数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--518--零钱兑换II-完全背包问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/动态规划--53--最大子序和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/堆栈--496--下一个更大元素 I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/堆栈-20--有效的括号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/树--1104--二叉树寻路.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python文件/树--671--二叉树中第二小的节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/AKS算法--判断是否是质数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/TMP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/TMP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/TMP4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--30--数据结构--包含min函数的栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--31--堆栈--栈的压入、弹出序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--35--链表--复杂链表的复制.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--36--链表--二叉搜索树与双向链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--40--堆栈--最小的k个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/剑指Offer--41--堆栈--数据流中的中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python文件/树--297--二叉树的序列化与反序列化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/yield_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/列表转成链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/前序遍历--迭代实现.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/后序遍历--迭代算法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/目标和.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/目标和问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/笔记--关于二叉树的遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/总结/面试题 0108--零矩阵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-8-22-腾讯笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-8-24-腾讯一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-8-25-哔哩哔哩笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-8-8-美团笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-8-9-百度提前批测开一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-9-14--携程一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-9-17-小红书笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-9-7-百度笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2021-9-9-携程笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-8-22-腾讯笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-8-24-腾讯一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-8-25-哔哩哔哩笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-8-8-美团笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-8-9-百度提前批测开一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-9-14--携程一面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-9-17-小红书笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-9-7-百度笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/2022校招笔试面试题/2021-9-9-携程笔试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/sql_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/日志解析项目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/面试笔试/面试练手.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--120--三角形最小路径和.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--120--三角形最小路径和.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--152--乘积最大子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--152--乘积最大子序列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/动态规划DP--70--爬楼梯.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--70--爬楼梯.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/合辑--排列组合--77.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/牛客网/阿里真题--四星--小强取货.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/阿里真题--四星--最长递增子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/tmmmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/TMP1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/tmmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--789--逃脱阻碍者.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/tmp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/其他--119--杨辉三角 II.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--119--杨辉三角 II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/其他--171--26进制转换成十进制-Excel表列序号.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--171--26进制转换成十进制-Excel表列序号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/其他--279--完全平方数-平方和定理.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--279--完全平方数-平方和定理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/其他--483--最小好进制.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/其他--483--最小好进制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/动态规划--152--乘积最大子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/动态规划--152--乘积最大子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/快速排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/快速排序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/滑动窗口--3--无重复字符的最长子串.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/滑动窗口--3--无重复字符的最长子串.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/链表--138--复制带随机指针的链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--138--复制带随机指针的链表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python文件/链表--142--找到环形链表的入环节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/python文件/链表--142--找到环形链表的入环节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/列表转成链表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/前序遍历--迭代实现.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/后序遍历--迭代算法.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/阿里真题--两星--国际交流会.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/阿里真题--两星--国际交流会.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/牛客网/阿里真题--两星--小强修水渠.py" beforeDir="false" afterPath="$PROJECT_DIR$/牛客网/阿里真题--两星--小强修水渠.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/目标和.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目标和问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记--关于二叉树的遍历.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面试题 0108--零矩阵.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,11 +131,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../联影医疗/前端自动化测试/front_end_automation" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.堆栈--456--132模式">
-    <configuration name="动态规划--1713--得到子序列的最少操作次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TMP1">
+    <configuration name="TMP1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/动态规划--1713--得到子序列的最少操作次数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/TMP1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="堆栈--456--132模式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TMP2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈--456--132模式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/TMP2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="堆栈--496--下一个更大元素 I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TMP3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈--496--下一个更大元素 I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/TMP3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="动态规划--518--零钱兑换II-完全背包问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TMP4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/动态规划--518--零钱兑换II-完全背包问题.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/TMP4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="堆栈-20--有效的括号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="yield_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,32 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python文件" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/总结" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/堆栈-20--有效的括号.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python文件" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python文件/tmp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/总结/yield_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.堆栈--456--132模式" />
-        <item itemvalue="Python.tmp" />
-        <item itemvalue="Python.堆栈--496--下一个更大元素 I" />
-        <item itemvalue="Python.堆栈-20--有效的括号" />
-        <item itemvalue="Python.动态规划--518--零钱兑换II-完全背包问题" />
+        <item itemvalue="Python.TMP1" />
+        <item itemvalue="Python.TMP2" />
+        <item itemvalue="Python.yield_demo" />
+        <item itemvalue="Python.TMP4" />
+        <item itemvalue="Python.TMP3" />
       </list>
     </recent_temporary>
   </component>
