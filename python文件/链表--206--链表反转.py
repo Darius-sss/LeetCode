@@ -29,9 +29,23 @@ class Solution:
             curr.next, pre, curr = pre, curr, curr.next
         return pre
 
+    def reverseList_2(self, head: ListNode) -> ListNode:
+        pre, curr = None, head
+        while curr:
+            curr = curr.next
+            head.next = pre
+            pre = head
+            head = curr
+        return pre
+
 
 if __name__ == "__main__":
-    nums = [1, 2, 3, 4, 5, 6]
+    nums = [1, 2, 3, 4, 5, 6, 7]
     root = ListNode().list_to_linkednode(nums)
     result = Solution().reverseList(root)
     print(ListNode().linkednode_to_list(result))
+
+    nums = [1, 2, 3, 4, 5, 6]
+    root = ListNode().list_to_linkednode(nums)
+    result2 = Solution().reverseList_2(root)
+    print(ListNode().linkednode_to_list(result2))
