@@ -51,7 +51,6 @@ def partition(nums, p, r):
     nums[i + 1], nums[r] = nums[r], nums[i + 1]
     return i + 1
 
-
 def qsort(nums, p, r):
     if p < r:
         q = partition(nums, p, r)
